@@ -1,5 +1,4 @@
-# sales-window-functions-analytics-case-study
-# Window Functions Analytics Case Study – SQL
+# Sales-window-functions-analytics-case-study - SQL
 
 This project is a comprehensive SQL case study focused on mastering **window functions** using a custom sales database. It showcases how SQL can be used to extract advanced insights for business analysis through real-world analytical queries.
 
@@ -47,4 +46,4 @@ If you find this project helpful, feel free to connect or reach out for collabor
 
 ## Repository
 
-GitHub Repo Link Here]](https://github.com/Sudais-shah/sales-window-functions-analytics-case-study
+GitHub Repo Link Here -> https://github.com/Sudais-shah/sales-window-functions-analytics-case-study
